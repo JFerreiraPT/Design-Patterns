@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/bin/Debug/net7.0/FluentBuilder
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/bin/Debug/net7.0/FluentBuilder.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/bin/Debug/net7.0/FluentBuilder.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/bin/Debug/net7.0/FluentBuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/bin/Debug/net7.0/FluentBuilder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/FluentBuilder.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/FluentBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/FluentBuilder.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/FluentBuilder.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/FluentBuilder.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/FluentBuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/refint/FluentBuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/FluentBuilder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/FluentBuilder.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FluentBuilder/obj/Debug/net7.0/ref/FluentBuilder.dll

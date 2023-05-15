@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/Builder.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/Builder.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/Builder.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/Builder.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/bin/Debug/net7.0/Builder
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/bin/Debug/net7.0/Builder.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/bin/Debug/net7.0/Builder.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/bin/Debug/net7.0/Builder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/bin/Debug/net7.0/Builder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/Builder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/refint/Builder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/Builder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/Builder.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Builder/obj/Debug/net7.0/ref/Builder.dll
