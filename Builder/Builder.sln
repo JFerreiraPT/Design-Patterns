@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBuilder", "FluentBuilder\FluentBuilder.csproj", "{9474DBBF-2CC0-49D0-A12D-9818AECBF64A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepwisebuilder", "Stepwisebuilder\Stepwisebuilder.csproj", "{904B4AA2-EB09-483A-9FB2-B7CDFED4D1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9474DBBF-2CC0-49D0-A12D-9818AECBF64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9474DBBF-2CC0-49D0-A12D-9818AECBF64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9474DBBF-2CC0-49D0-A12D-9818AECBF64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904B4AA2-EB09-483A-9FB2-B7CDFED4D1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904B4AA2-EB09-483A-9FB2-B7CDFED4D1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904B4AA2-EB09-483A-9FB2-B7CDFED4D1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904B4AA2-EB09-483A-9FB2-B7CDFED4D1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

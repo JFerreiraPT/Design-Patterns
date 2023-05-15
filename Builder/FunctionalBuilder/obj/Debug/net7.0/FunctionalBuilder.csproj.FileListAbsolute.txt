@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/bin/Debug/net7.0/FunctionalBuilder
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/bin/Debug/net7.0/FunctionalBuilder.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/bin/Debug/net7.0/FunctionalBuilder.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/bin/Debug/net7.0/FunctionalBuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/bin/Debug/net7.0/FunctionalBuilder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/FunctionalBuilder.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/FunctionalBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/FunctionalBuilder.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/FunctionalBuilder.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/FunctionalBuilder.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/FunctionalBuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/refint/FunctionalBuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/FunctionalBuilder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/FunctionalBuilder.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FunctionalBuilder/obj/Debug/net7.0/ref/FunctionalBuilder.dll

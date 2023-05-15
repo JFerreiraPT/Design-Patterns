@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/bin/Debug/net7.0/Stepwisebuilder
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/bin/Debug/net7.0/Stepwisebuilder.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/bin/Debug/net7.0/Stepwisebuilder.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/bin/Debug/net7.0/Stepwisebuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/bin/Debug/net7.0/Stepwisebuilder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/Stepwisebuilder.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/Stepwisebuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/Stepwisebuilder.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/Stepwisebuilder.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/Stepwisebuilder.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/Stepwisebuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/refint/Stepwisebuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/Stepwisebuilder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/Stepwisebuilder.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/Stepwisebuilder/obj/Debug/net7.0/ref/Stepwisebuilder.dll
