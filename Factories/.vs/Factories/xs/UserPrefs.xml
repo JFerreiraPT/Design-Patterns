@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{60617280-E2BC-4947-B766-81F35C465F9C}|Default">
+  <MonoDevelop.Ide.ItemProperties.AbstractFactoryAnotherExample FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Factories FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AsynchronousFactory FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ObjectTrackingAndBulkReplacement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Factory FirstBuild="True" />
+</Properties>

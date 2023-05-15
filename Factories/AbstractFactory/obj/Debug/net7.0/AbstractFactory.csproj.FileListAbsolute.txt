@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/bin/Debug/net7.0/AbstractFactory
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/bin/Debug/net7.0/AbstractFactory.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/bin/Debug/net7.0/AbstractFactory.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/bin/Debug/net7.0/AbstractFactory.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/bin/Debug/net7.0/AbstractFactory.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/AbstractFactory.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/refint/AbstractFactory.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/AbstractFactory.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/AbstractFactory.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactory/obj/Debug/net7.0/ref/AbstractFactory.dll

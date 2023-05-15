@@ -1,8 +1,37 @@
-﻿<Properties StartupConfiguration="{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}|Default">
+﻿<Properties StartupConfiguration="{D617E778-FEF5-4A5F-9BCD-6AA5C6709CB1}|Default">
   <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FluentBuilder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.FunctionalBuilder PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Stepwisebuilder PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.FacetedBuilder FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FacetedBuilder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacetedBuilder/Program.cs">
+    <Files>
+      <File FileName="Builder/Program.cs" Line="11" Column="1" />
+      <File FileName="FluentBuilder/Program.cs" Line="32" Column="1" />
+      <File FileName="Stepwisebuilder/Program.cs" Line="24" Column="60" />
+      <File FileName="FunctionalBuilder/Program.cs" Line="51" Column="1" />
+      <File FileName="FacetedBuilder/Program.cs" Line="36" Column="91" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Builder" expanded="True">
+            <Node name="Builder" expanded="True" />
+            <Node name="FacetedBuilder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="FluentBuilder" expanded="True" />
+            <Node name="FunctionalBuilder" expanded="True" />
+            <Node name="Stepwisebuilder" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

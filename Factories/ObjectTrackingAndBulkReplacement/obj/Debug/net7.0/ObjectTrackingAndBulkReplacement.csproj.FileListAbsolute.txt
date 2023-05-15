@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/bin/Debug/net7.0/ObjectTrackingAndBulkReplacement
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/bin/Debug/net7.0/ObjectTrackingAndBulkReplacement.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/bin/Debug/net7.0/ObjectTrackingAndBulkReplacement.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/bin/Debug/net7.0/ObjectTrackingAndBulkReplacement.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/bin/Debug/net7.0/ObjectTrackingAndBulkReplacement.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/ObjectTrackingAndBulkReplacement.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/ObjectTrackingAndBulkReplacement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/ObjectTrackingAndBulkReplacement.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/ObjectTrackingAndBulkReplacement.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/ObjectTrackingAndBulkReplacement.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/ObjectTrackingAndBulkReplacement.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/refint/ObjectTrackingAndBulkReplacement.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/ObjectTrackingAndBulkReplacement.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/ObjectTrackingAndBulkReplacement.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/ObjectTrackingAndBulkReplacement/obj/Debug/net7.0/ref/ObjectTrackingAndBulkReplacement.dll

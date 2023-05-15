@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/bin/Debug/net7.0/AbstractFactoryAnotherExample
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/bin/Debug/net7.0/AbstractFactoryAnotherExample.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/bin/Debug/net7.0/AbstractFactoryAnotherExample.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/bin/Debug/net7.0/AbstractFactoryAnotherExample.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/bin/Debug/net7.0/AbstractFactoryAnotherExample.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/AbstractFactoryAnotherExample.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/AbstractFactoryAnotherExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/AbstractFactoryAnotherExample.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/AbstractFactoryAnotherExample.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/AbstractFactoryAnotherExample.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/AbstractFactoryAnotherExample.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/refint/AbstractFactoryAnotherExample.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/AbstractFactoryAnotherExample.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/AbstractFactoryAnotherExample.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Factories/AbstractFactoryAnotherExample/obj/Debug/net7.0/ref/AbstractFactoryAnotherExample.dll
