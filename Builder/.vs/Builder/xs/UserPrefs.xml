@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{904B4AA2-EB09-483A-9FB2-B7CDFED4D1B5}|Default">
+﻿<Properties StartupConfiguration="{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}|Default">
   <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FluentBuilder PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.FunctionalBuilder FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FunctionalBuilder PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Stepwisebuilder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FacetedBuilder FirstBuild="True" />
 </Properties>

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepwisebuilder", "Stepwise
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacetedBuilder", "FacetedBuilder\FacetedBuilder.csproj", "{D617E778-FEF5-4A5F-9BCD-6AA5C6709CB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3F47261-21F7-44E5-BBD1-B9EB5F2B7241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D617E778-FEF5-4A5F-9BCD-6AA5C6709CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D617E778-FEF5-4A5F-9BCD-6AA5C6709CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D617E778-FEF5-4A5F-9BCD-6AA5C6709CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D617E778-FEF5-4A5F-9BCD-6AA5C6709CB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

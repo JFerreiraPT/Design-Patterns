@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/bin/Debug/net7.0/FacetedBuilder
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/bin/Debug/net7.0/FacetedBuilder.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/bin/Debug/net7.0/FacetedBuilder.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/bin/Debug/net7.0/FacetedBuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/bin/Debug/net7.0/FacetedBuilder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/FacetedBuilder.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/FacetedBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/FacetedBuilder.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/FacetedBuilder.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/FacetedBuilder.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/FacetedBuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/refint/FacetedBuilder.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/FacetedBuilder.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/FacetedBuilder.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Builder/FacetedBuilder/obj/Debug/net7.0/ref/FacetedBuilder.dll
