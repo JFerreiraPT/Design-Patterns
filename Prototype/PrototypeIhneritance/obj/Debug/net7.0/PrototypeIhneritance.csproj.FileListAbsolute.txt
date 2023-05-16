@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/bin/Debug/net7.0/PrototypeIhneritance
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/bin/Debug/net7.0/PrototypeIhneritance.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/bin/Debug/net7.0/PrototypeIhneritance.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/bin/Debug/net7.0/PrototypeIhneritance.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/bin/Debug/net7.0/PrototypeIhneritance.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/PrototypeIhneritance.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/PrototypeIhneritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/PrototypeIhneritance.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/PrototypeIhneritance.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/PrototypeIhneritance.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/PrototypeIhneritance.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/refint/PrototypeIhneritance.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/PrototypeIhneritance.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/PrototypeIhneritance.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/PrototypeIhneritance/obj/Debug/net7.0/ref/PrototypeIhneritance.dll

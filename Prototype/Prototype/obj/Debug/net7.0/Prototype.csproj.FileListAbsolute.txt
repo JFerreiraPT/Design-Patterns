@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/bin/Debug/net7.0/Prototype
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/bin/Debug/net7.0/Prototype.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/bin/Debug/net7.0/Prototype.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/bin/Debug/net7.0/Prototype.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/bin/Debug/net7.0/Prototype.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/Prototype.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/Prototype.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/refint/Prototype.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/Prototype.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/Prototype.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Prototype/Prototype/obj/Debug/net7.0/ref/Prototype.dll

@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{FBB25578-AB5B-448A-9D38-8759C803979B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PrototypeIhneritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CopyThroughSerialization FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Prototype PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
