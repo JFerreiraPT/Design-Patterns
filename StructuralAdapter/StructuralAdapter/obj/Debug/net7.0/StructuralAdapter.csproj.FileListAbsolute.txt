@@ -1,0 +1,5 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/StructuralAdapter/StructuralAdapter/obj/Debug/net7.0/StructuralAdapter.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/StructuralAdapter/StructuralAdapter/obj/Debug/net7.0/StructuralAdapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/StructuralAdapter/StructuralAdapter/obj/Debug/net7.0/StructuralAdapter.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/StructuralAdapter/StructuralAdapter/obj/Debug/net7.0/StructuralAdapter.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/StructuralAdapter/StructuralAdapter/obj/Debug/net7.0/StructuralAdapter.csproj.CoreCompileInputs.cache

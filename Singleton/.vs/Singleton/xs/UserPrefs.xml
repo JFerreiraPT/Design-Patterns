@@ -1,8 +1,36 @@
-﻿<Properties StartupConfiguration="{A6E6D33A-970E-484B-9AFB-B15DDF3C6EBE}|Default">
+﻿<Properties StartupConfiguration="{689F6123-E0A5-466D-A20A-6102DF631DBB}|Default">
   <MonoDevelop.Ide.ItemProperties.Monostate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AmbientContext FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AmbientContext PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PerThreadSingleton PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SingletonInDependencyInjection FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AmbientContext/Program.cs">
+    <Files>
+      <File FileName="Singleton/Program.cs" Line="32" Column="15" />
+      <File FileName="Singleton/Capitals.txt" Line="16" Column="9" />
+      <File FileName="SingletonInDependencyInjection/Program.cs" Line="23" Column="28" />
+      <File FileName="Monostate/Program.cs" Line="10" Column="1" />
+      <File FileName="PerThreadSingleton/Program.cs" Line="21" Column="33" />
+      <File FileName="AmbientContext/Program.cs" Line="58" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Singleton" expanded="True">
+            <Node name="AmbientContext" expanded="True" />
+            <Node name="Monostate" expanded="True" />
+            <Node name="PerThreadSingleton" expanded="True" />
+            <Node name="Singleton" expanded="True" />
+            <Node name="SingletonInDependencyInjection" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

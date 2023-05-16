@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{DC7C86F5-CBA7-4EDA-8D42-FAFE929397D6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StructuralAdapter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AdapterCaching FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.genericAdapter FirstBuild="True" />
+</Properties>
