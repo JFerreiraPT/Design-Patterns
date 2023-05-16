@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/bin/Debug/net7.0/PerThreadSingleton
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/bin/Debug/net7.0/PerThreadSingleton.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/bin/Debug/net7.0/PerThreadSingleton.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/bin/Debug/net7.0/PerThreadSingleton.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/bin/Debug/net7.0/PerThreadSingleton.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/PerThreadSingleton.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/PerThreadSingleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/PerThreadSingleton.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/PerThreadSingleton.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/PerThreadSingleton.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/PerThreadSingleton.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/refint/PerThreadSingleton.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/PerThreadSingleton.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/PerThreadSingleton.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/PerThreadSingleton/obj/Debug/net7.0/ref/PerThreadSingleton.dll

@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/bin/Debug/net7.0/AmbientContext
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/bin/Debug/net7.0/AmbientContext.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/bin/Debug/net7.0/AmbientContext.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/bin/Debug/net7.0/AmbientContext.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/bin/Debug/net7.0/AmbientContext.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/AmbientContext.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/AmbientContext.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/AmbientContext.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/AmbientContext.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/AmbientContext.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/AmbientContext.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/refint/AmbientContext.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/AmbientContext.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/AmbientContext.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/AmbientContext/obj/Debug/net7.0/ref/AmbientContext.dll

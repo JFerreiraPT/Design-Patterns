@@ -1,6 +1,31 @@
 ﻿<Properties StartupConfiguration="{FBB25578-AB5B-448A-9D38-8759C803979B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.PrototypeIhneritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prototype/Program.cs">
+    <Files>
+      <File FileName="Prototype/Program.cs" Line="68" Column="6" />
+      <File FileName="PrototypeIhneritance/Program.cs" Line="27" Column="20" />
+      <File FileName="CopyThroughSerialization/Program.cs" Line="22" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype" expanded="True">
+            <Node name="CopyThroughSerialization" expanded="True" />
+            <Node name="Prototype" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="PrototypeIhneritance" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CopyThroughSerialization FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Prototype PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

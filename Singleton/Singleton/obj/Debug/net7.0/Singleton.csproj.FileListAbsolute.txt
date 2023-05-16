@@ -1,0 +1,16 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/bin/Debug/net7.0/Singleton
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/bin/Debug/net7.0/Singleton.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/bin/Debug/net7.0/Singleton.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/Singleton.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/Singleton.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/obj/Debug/net7.0/ref/Singleton.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Singleton/bin/Debug/net7.0/Capitals.txt

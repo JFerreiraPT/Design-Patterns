@@ -1,0 +1,8 @@
+﻿<Properties StartupConfiguration="{A6E6D33A-970E-484B-9AFB-B15DDF3C6EBE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Monostate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AmbientContext FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PerThreadSingleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SingletonInDependencyInjection FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

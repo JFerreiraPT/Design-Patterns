@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/bin/Debug/net7.0/Monostate
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/bin/Debug/net7.0/Monostate.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/bin/Debug/net7.0/Monostate.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/bin/Debug/net7.0/Monostate.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/bin/Debug/net7.0/Monostate.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/Monostate.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/Monostate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/Monostate.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/Monostate.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/Monostate.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/Monostate.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/refint/Monostate.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/Monostate.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/Monostate.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Singleton/Monostate/obj/Debug/net7.0/ref/Monostate.dll
