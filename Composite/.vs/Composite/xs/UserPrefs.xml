@@ -1,5 +1,28 @@
 ﻿<Properties StartupConfiguration="{054D7AD0-0A6B-4221-BE4D-3DE07A888C62}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.NeuralNetworks FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Composite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NeuralNetworks/Program.cs">
+    <Files>
+      <File FileName="Composite/Program.cs" Line="17" Column="1" />
+      <File FileName="NeuralNetworks/Program.cs" Line="14" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Composite" expanded="True">
+            <Node name="Composite" expanded="True" />
+            <Node name="NeuralNetworks" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

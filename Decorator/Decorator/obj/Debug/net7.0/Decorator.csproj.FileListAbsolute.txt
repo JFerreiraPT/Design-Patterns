@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/bin/Debug/net7.0/Decorator
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/bin/Debug/net7.0/Decorator.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/bin/Debug/net7.0/Decorator.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/bin/Debug/net7.0/Decorator.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/bin/Debug/net7.0/Decorator.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/Decorator.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/Decorator.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/Decorator.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/refint/Decorator.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/Decorator.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/Decorator.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/Decorator/obj/Debug/net7.0/ref/Decorator.dll

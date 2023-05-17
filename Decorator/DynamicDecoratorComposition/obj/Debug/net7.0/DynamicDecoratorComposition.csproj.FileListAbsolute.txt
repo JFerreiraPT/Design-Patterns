@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/bin/Debug/net7.0/DynamicDecoratorComposition
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/bin/Debug/net7.0/DynamicDecoratorComposition.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/bin/Debug/net7.0/DynamicDecoratorComposition.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/bin/Debug/net7.0/DynamicDecoratorComposition.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/bin/Debug/net7.0/DynamicDecoratorComposition.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/DynamicDecoratorComposition.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/DynamicDecoratorComposition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/DynamicDecoratorComposition.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/DynamicDecoratorComposition.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/DynamicDecoratorComposition.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/DynamicDecoratorComposition.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/refint/DynamicDecoratorComposition.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/DynamicDecoratorComposition.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/DynamicDecoratorComposition.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Decorator/DynamicDecoratorComposition/obj/Debug/net7.0/ref/DynamicDecoratorComposition.dll
