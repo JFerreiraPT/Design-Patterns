@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/bin/Debug/net7.0/TextFormatingExample
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/bin/Debug/net7.0/TextFormatingExample.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/bin/Debug/net7.0/TextFormatingExample.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/bin/Debug/net7.0/TextFormatingExample.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/bin/Debug/net7.0/TextFormatingExample.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/TextFormatingExample.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/TextFormatingExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/TextFormatingExample.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/TextFormatingExample.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/TextFormatingExample.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/TextFormatingExample.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/refint/TextFormatingExample.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/TextFormatingExample.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/TextFormatingExample.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Flyweight/TextFormatingExample/obj/Debug/net7.0/ref/TextFormatingExample.dll
