@@ -1,6 +1,31 @@
 ﻿<Properties StartupConfiguration="{DC7C86F5-CBA7-4EDA-8D42-FAFE929397D6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.StructuralAdapter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="genericAdapter/Program.cs">
+    <Files>
+      <File FileName="StructuralAdapter/Program.cs" Line="101" Column="27" />
+      <File FileName="GenericValueAdapter/Program.cs" Line="122" Column="1" />
+      <File FileName="genericAdapter/Program.cs" Line="17" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StructuralAdapter" expanded="True">
+            <Node name="AdapterCaching" expanded="True" />
+            <Node name="genericAdapter" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="StructuralAdapter" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.AdapterCaching FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.genericAdapter FirstBuild="True" />
 </Properties>
