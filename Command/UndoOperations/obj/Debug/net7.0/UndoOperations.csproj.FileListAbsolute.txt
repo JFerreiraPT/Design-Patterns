@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/bin/Debug/net7.0/UndoOperations
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/bin/Debug/net7.0/UndoOperations.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/bin/Debug/net7.0/UndoOperations.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/bin/Debug/net7.0/UndoOperations.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/bin/Debug/net7.0/UndoOperations.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/UndoOperations.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/UndoOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/UndoOperations.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/UndoOperations.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/UndoOperations.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/UndoOperations.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/refint/UndoOperations.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/UndoOperations.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/UndoOperations.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/UndoOperations/obj/Debug/net7.0/ref/UndoOperations.dll

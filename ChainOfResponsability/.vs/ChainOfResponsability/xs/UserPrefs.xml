@@ -1,5 +1,28 @@
-﻿<Properties StartupConfiguration="{49783811-E1D3-4A26-9198-1FD767E058DB}|Default">
+﻿<Properties StartupConfiguration="{6F493E5E-22F4-48ED-8C75-2FF81EA88996}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsability PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BrokerChain FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BrokerChain PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BrokerChain/Program.cs">
+    <Files>
+      <File FileName="ChainOfResponsability/Program.cs" Line="85" Column="1" />
+      <File FileName="BrokerChain/Program.cs" Line="16" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsability" expanded="True">
+            <Node name="BrokerChain" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ChainOfResponsability" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

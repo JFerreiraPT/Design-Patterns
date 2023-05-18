@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/bin/Debug/net7.0/Command
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/bin/Debug/net7.0/Command.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/bin/Debug/net7.0/Command.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/bin/Debug/net7.0/Command.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/bin/Debug/net7.0/Command.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/Command.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/Command.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/Command.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/Command.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/Command.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/refint/Command.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/Command.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/Command.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Command/Command/obj/Debug/net7.0/ref/Command.dll
