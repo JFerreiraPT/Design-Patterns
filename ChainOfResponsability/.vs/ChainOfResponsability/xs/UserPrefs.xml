@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{49783811-E1D3-4A26-9198-1FD767E058DB}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsability PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BrokerChain FirstBuild="True" />
+</Properties>

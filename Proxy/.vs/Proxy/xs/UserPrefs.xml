@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F1A3D61D-6419-458D-B235-0980A821FBF3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Proxy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CompositeProxy FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompositeProxy/Program.cs">
+    <Files>
+      <File FileName="Proxy/Program.cs" Line="13" Column="2" />
+      <File FileName="ValueProxyWithExtensionMethods/Program.cs" Line="4" Column="33" />
+      <File FileName="CompositeProxy/Program.cs" Line="65" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Proxy" expanded="True">
+            <Node name="CompositeProxy" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Proxy" expanded="True" />
+            <Node name="ValueProxyWithExtensionMethods" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ValueProxyWithExtensionMethods PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

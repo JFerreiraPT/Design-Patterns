@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/bin/Debug/net7.0/BrokerChain
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/bin/Debug/net7.0/BrokerChain.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/bin/Debug/net7.0/BrokerChain.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/bin/Debug/net7.0/BrokerChain.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/bin/Debug/net7.0/BrokerChain.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/BrokerChain.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/BrokerChain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/BrokerChain.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/BrokerChain.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/BrokerChain.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/BrokerChain.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/refint/BrokerChain.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/BrokerChain.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/BrokerChain.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/BrokerChain/obj/Debug/net7.0/ref/BrokerChain.dll

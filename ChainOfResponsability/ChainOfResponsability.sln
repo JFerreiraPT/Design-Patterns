@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsability", "ChainOfResponsability\ChainOfResponsability.csproj", "{49783811-E1D3-4A26-9198-1FD767E058DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokerChain", "BrokerChain\BrokerChain.csproj", "{6F493E5E-22F4-48ED-8C75-2FF81EA88996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49783811-E1D3-4A26-9198-1FD767E058DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49783811-E1D3-4A26-9198-1FD767E058DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49783811-E1D3-4A26-9198-1FD767E058DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49783811-E1D3-4A26-9198-1FD767E058DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F493E5E-22F4-48ED-8C75-2FF81EA88996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F493E5E-22F4-48ED-8C75-2FF81EA88996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F493E5E-22F4-48ED-8C75-2FF81EA88996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F493E5E-22F4-48ED-8C75-2FF81EA88996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F8D6F5-B112-41E4-BD94-CA1797694968}
+	EndGlobalSection
+EndGlobal

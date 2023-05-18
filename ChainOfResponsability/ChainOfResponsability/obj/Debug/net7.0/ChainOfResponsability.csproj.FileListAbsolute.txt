@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/bin/Debug/net7.0/ChainOfResponsability.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/refint/ChainOfResponsability.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/ChainOfResponsability.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/ChainOfResponsability/ChainOfResponsability/obj/Debug/net7.0/ref/ChainOfResponsability.dll

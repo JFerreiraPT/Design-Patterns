@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/bin/Debug/net7.0/ValueProxyWithExtensionMethods
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/bin/Debug/net7.0/ValueProxyWithExtensionMethods.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/bin/Debug/net7.0/ValueProxyWithExtensionMethods.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/bin/Debug/net7.0/ValueProxyWithExtensionMethods.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/bin/Debug/net7.0/ValueProxyWithExtensionMethods.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/ValueProxyWithExtensionMethods.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/ValueProxyWithExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/ValueProxyWithExtensionMethods.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/ValueProxyWithExtensionMethods.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/ValueProxyWithExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/ValueProxyWithExtensionMethods.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/refint/ValueProxyWithExtensionMethods.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/ValueProxyWithExtensionMethods.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/ValueProxyWithExtensionMethods.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Proxy/ValueProxyWithExtensionMethods/obj/Debug/net7.0/ref/ValueProxyWithExtensionMethods.dll

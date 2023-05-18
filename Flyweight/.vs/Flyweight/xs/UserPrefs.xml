@@ -1,5 +1,28 @@
-﻿<Properties StartupConfiguration="{4EA9AB5B-8A73-4F5D-8E12-EEE1277C1DE7}|Default">
+﻿<Properties StartupConfiguration="{B0977894-A1D2-40D8-9948-2597852E426B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TextFormatingExample FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TextFormatingExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextFormatingExample/Program.cs">
+    <Files>
+      <File FileName="Flyweight/Program.cs" Line="39" Column="56" />
+      <File FileName="TextFormatingExample/Program.cs" Line="91" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flyweight" expanded="True">
+            <Node name="Flyweight" expanded="True" />
+            <Node name="TextFormatingExample" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Flyweight FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
