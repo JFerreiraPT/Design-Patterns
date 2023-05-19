@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/bin/Debug/net7.0/IteratorMethod
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/bin/Debug/net7.0/IteratorMethod.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/bin/Debug/net7.0/IteratorMethod.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/bin/Debug/net7.0/IteratorMethod.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/bin/Debug/net7.0/IteratorMethod.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/IteratorMethod.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/IteratorMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/IteratorMethod.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/IteratorMethod.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/IteratorMethod.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/IteratorMethod.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/refint/IteratorMethod.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/IteratorMethod.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/IteratorMethod.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Iterator/IteratorMethod/obj/Debug/net7.0/ref/IteratorMethod.dll
