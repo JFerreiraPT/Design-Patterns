@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/bin/Debug/net7.0/WeekEvent
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/bin/Debug/net7.0/WeekEvent.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/bin/Debug/net7.0/WeekEvent.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/bin/Debug/net7.0/WeekEvent.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/bin/Debug/net7.0/WeekEvent.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/WeekEvent.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/WeekEvent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/WeekEvent.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/WeekEvent.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/WeekEvent.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/WeekEvent.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/refint/WeekEvent.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/WeekEvent.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/WeekEvent.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/WeekEvent/obj/Debug/net7.0/ref/WeekEvent.dll

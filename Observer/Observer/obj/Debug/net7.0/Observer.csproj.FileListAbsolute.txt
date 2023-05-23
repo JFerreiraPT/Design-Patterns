@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/bin/Debug/net7.0/Observer
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/bin/Debug/net7.0/Observer.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/bin/Debug/net7.0/Observer.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/bin/Debug/net7.0/Observer.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/bin/Debug/net7.0/Observer.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/Observer.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/Observer.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/Observer.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/Observer.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/Observer.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/refint/Observer.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/Observer.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/Observer.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/Observer/obj/Debug/net7.0/ref/Observer.dll

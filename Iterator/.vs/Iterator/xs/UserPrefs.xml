@@ -1,5 +1,28 @@
-﻿<Properties StartupConfiguration="{531E5D15-E61F-4ADD-9F5A-FAA60547F8B8}|Default">
+﻿<Properties StartupConfiguration="{1C39F52F-BB9C-467A-861E-31FC078AE3EE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IteratorMethod/Program.cs">
+    <Files>
+      <File FileName="Iterator/Program.cs" Line="1" Column="1" />
+      <File FileName="IteratorMethod/Program.cs" Line="27" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iterator" expanded="True">
+            <Node name="Iterator" expanded="True" />
+            <Node name="IteratorMethod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Iterator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.IteratorMethod FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.IteratorMethod PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

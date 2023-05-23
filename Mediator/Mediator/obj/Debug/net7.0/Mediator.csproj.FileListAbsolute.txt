@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/Mediator.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/bin/Debug/net7.0/Mediator
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/bin/Debug/net7.0/Mediator.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/bin/Debug/net7.0/Mediator.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/bin/Debug/net7.0/Mediator.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/bin/Debug/net7.0/Mediator.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/Mediator.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/refint/Mediator.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/Mediator.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/Mediator.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Mediator/Mediator/obj/Debug/net7.0/ref/Mediator.dll

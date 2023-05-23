@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/bin/Debug/net7.0/HandmadeStateMachine
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/bin/Debug/net7.0/HandmadeStateMachine.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/bin/Debug/net7.0/HandmadeStateMachine.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/bin/Debug/net7.0/HandmadeStateMachine.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/bin/Debug/net7.0/HandmadeStateMachine.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/HandmadeStateMachine.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/HandmadeStateMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/HandmadeStateMachine.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/HandmadeStateMachine.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/HandmadeStateMachine.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/HandmadeStateMachine.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/refint/HandmadeStateMachine.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/HandmadeStateMachine.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/HandmadeStateMachine.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/State/HandmadeStateMachine/obj/Debug/net7.0/ref/HandmadeStateMachine.dll

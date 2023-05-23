@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/bin/Debug/net7.0/Memento
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/bin/Debug/net7.0/Memento.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/bin/Debug/net7.0/Memento.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/bin/Debug/net7.0/Memento.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/bin/Debug/net7.0/Memento.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/Memento.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/Memento.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/Memento.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/Memento.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/Memento.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/refint/Memento.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/Memento.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/Memento.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Memento/Memento/obj/Debug/net7.0/ref/Memento.dll

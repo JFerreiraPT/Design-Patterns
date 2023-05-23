@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{C0B8844E-27B9-467C-B764-F40884C806CC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Observablecollections FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BidirectionObserver FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Observer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BidirectionObserver/Program.cs">
+    <Files>
+      <File FileName="Observer/Program.cs" Line="11" Column="23" />
+      <File FileName="WeekEvent/Program.cs" Line="33" Column="6" />
+      <File FileName="ObserverViaSpecialInterfaces/Program.cs" Line="73" Column="1" />
+      <File FileName="Observablecollections/Program.cs" Line="18" Column="33" />
+      <File FileName="BidirectionObserver/Program.cs" Line="25" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Observer" expanded="True">
+            <Node name="BidirectionObserver" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Observablecollections" expanded="True" />
+            <Node name="Observer" expanded="True" />
+            <Node name="ObserverViaSpecialInterfaces" expanded="True" />
+            <Node name="WeekEvent" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeekEvent PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ObserverViaSpecialInterfaces PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

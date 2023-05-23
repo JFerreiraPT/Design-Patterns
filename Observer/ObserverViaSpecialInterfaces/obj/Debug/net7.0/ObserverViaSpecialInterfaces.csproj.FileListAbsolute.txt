@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/bin/Debug/net7.0/ObserverViaSpecialInterfaces
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/bin/Debug/net7.0/ObserverViaSpecialInterfaces.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/bin/Debug/net7.0/ObserverViaSpecialInterfaces.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/bin/Debug/net7.0/ObserverViaSpecialInterfaces.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/bin/Debug/net7.0/ObserverViaSpecialInterfaces.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/ObserverViaSpecialInterfaces.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/ObserverViaSpecialInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/ObserverViaSpecialInterfaces.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/ObserverViaSpecialInterfaces.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/ObserverViaSpecialInterfaces.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/ObserverViaSpecialInterfaces.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/refint/ObserverViaSpecialInterfaces.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/ObserverViaSpecialInterfaces.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/ObserverViaSpecialInterfaces.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Observer/ObserverViaSpecialInterfaces/obj/Debug/net7.0/ref/ObserverViaSpecialInterfaces.dll

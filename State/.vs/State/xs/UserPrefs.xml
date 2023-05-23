@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{EA6D7071-4B53-4C05-B72B-6EC78F1686A3}|Default">
+  <MonoDevelop.Ide.ItemProperties.SwitchExpression FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.State PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HandmadeStateMachine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Switch-Based FirstBuild="True" />
+</Properties>
