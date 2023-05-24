@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/bin/Debug/net7.0/Strategy
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/bin/Debug/net7.0/Strategy.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/bin/Debug/net7.0/Strategy.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/bin/Debug/net7.0/Strategy.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/bin/Debug/net7.0/Strategy.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/Strategy.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/Strategy.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/Strategy.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/Strategy.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/Strategy.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/refint/Strategy.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/Strategy.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/Strategy.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Strategy/Strategy/obj/Debug/net7.0/ref/Strategy.dll

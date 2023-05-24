@@ -1,6 +1,33 @@
 ﻿<Properties StartupConfiguration="{EA6D7071-4B53-4C05-B72B-6EC78F1686A3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.SwitchExpression FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwitchExpression/Program.cs">
+    <Files>
+      <File FileName="State/Program.cs" Line="10" Column="65" />
+      <File FileName="HandmadeStateMachine/Program.cs" Line="38" Column="11" />
+      <File FileName="Switch-Based/Program.cs" Line="59" Column="1" />
+      <File FileName="SwitchExpression/Program.cs" Line="30" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="State" expanded="True">
+            <Node name="HandmadeStateMachine" expanded="True" />
+            <Node name="State" expanded="True" />
+            <Node name="Switch-Based" expanded="True" />
+            <Node name="SwitchExpression" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.State PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.HandmadeStateMachine PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Switch-Based FirstBuild="True" />

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{923ADCD5-0439-4A89-A24D-4E1B56CEBEBA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EqualityAndComparisonStrategies FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StaticStrategy FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EqualityAndComparisonStrategies/Program.cs">
+    <Files>
+      <File FileName="Strategy/Program.cs" Line="11" Column="46" />
+      <File FileName="StaticStrategy/Program.cs" Line="32" Column="1" />
+      <File FileName="EqualityAndComparisonStrategies/Program.cs" Line="71" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Strategy" expanded="True">
+            <Node name="EqualityAndComparisonStrategies" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="StaticStrategy" expanded="True" />
+            <Node name="Strategy" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Strategy PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
