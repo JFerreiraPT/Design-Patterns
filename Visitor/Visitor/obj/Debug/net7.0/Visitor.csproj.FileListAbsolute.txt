@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/bin/Debug/net7.0/Visitor
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/bin/Debug/net7.0/Visitor.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/bin/Debug/net7.0/Visitor.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/bin/Debug/net7.0/Visitor.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/bin/Debug/net7.0/Visitor.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/Visitor.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/Visitor.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/Visitor.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/Visitor.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/Visitor.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/refint/Visitor.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/Visitor.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/Visitor.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/Visitor/obj/Debug/net7.0/ref/Visitor.dll

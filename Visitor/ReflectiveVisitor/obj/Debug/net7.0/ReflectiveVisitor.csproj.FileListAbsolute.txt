@@ -1,0 +1,15 @@
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/bin/Debug/net7.0/ReflectiveVisitor
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/bin/Debug/net7.0/ReflectiveVisitor.deps.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/bin/Debug/net7.0/ReflectiveVisitor.runtimeconfig.json
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/bin/Debug/net7.0/ReflectiveVisitor.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/bin/Debug/net7.0/ReflectiveVisitor.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/ReflectiveVisitor.csproj.AssemblyReference.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/ReflectiveVisitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/ReflectiveVisitor.AssemblyInfoInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/ReflectiveVisitor.AssemblyInfo.cs
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/ReflectiveVisitor.csproj.CoreCompileInputs.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/ReflectiveVisitor.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/refint/ReflectiveVisitor.dll
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/ReflectiveVisitor.pdb
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/ReflectiveVisitor.genruntimeconfig.cache
+/Users/joaoferreira/Dev/training_projects/C#/DesignPatterns/Visitor/ReflectiveVisitor/obj/Debug/net7.0/ref/ReflectiveVisitor.dll
